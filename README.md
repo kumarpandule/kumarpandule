@@ -3,18 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarpandule&label=Profile%20views&color=0e75b6&style=flat" alt="kumarpandule" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarpandule" alt="kumarpandule" /></a> </p>
-
 - 🌱 I’m currently learning **Svelte**
-
 - 👨‍💻 All of my projects are available at [https://kumarpandule.me/](https://kumarpandule.me/)
-
 - 💬 Ask me about **react and flutter**
-
 - 📫 How to reach me **kumarpandule20@gmail.com**
-
 - 📄 Know about my experiences [https://kumarpandule.me/](https://kumarpandule.me/)
-
 - ⚡ Fun fact **I Thing I am funny**
 
 <h3 align="left">Connect with me:</h3>
