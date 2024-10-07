@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarpandule&label=Profile%20views&color=0e75b6&style=flat" alt="kumarpandule" /> </p>
 
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **Svelte & JAVA**
 - 👨‍💻 All of my projects are available at [https://kumarpandule.me/](https://kumarpandule.me/)
 - 💬 Ask me about **react and flutter**
 - 📫 How to reach me **kumarpandule20@gmail.com**
